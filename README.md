@@ -3,23 +3,7 @@
 ##
 
 
-## Технологиялар
-- Python 3.10+
-- NumPy, Pandas
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook / Google Colab
-- Git
-ыпакпуыкпукпуууп
-## Орнату
-```bash
-git clone <репозиторий-сілтемесі>
-cd ai_project
-python -m venv venv
-venv\Scripts\activate        # Windows
-source venv/bin/activate      # Linux / macOS
-pip install -r requirements.txt
-```
+
 
 ## Jupyter Notebook іске қосу
 Жергілікті түрде:
